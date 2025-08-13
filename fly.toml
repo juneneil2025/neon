@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for neon-late-flower-5653 on 2025-08-13T17:31:35+08:00
+# fly.toml app configuration file generated for neon-broken-glitter-852 on 2025-08-13T17:49:07+08:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'neon-late-flower-5653'
+app = 'neon-broken-glitter-852'
 primary_region = 'fra'
 
 [build]
